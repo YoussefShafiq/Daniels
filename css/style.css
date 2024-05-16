@@ -153,8 +153,8 @@ body {
         position: absolute;
         content: '';
         background-image: url(../images/dots.png);
-        height: 460px;
-        width: 410px;
+        height: 80%;
+        width: 80%;
         top: 92px;
         left: 53px;
     }
